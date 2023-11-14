@@ -1,0 +1,7 @@
+C:\Users\Iva\source\repos\Nizovi\Nizovi\bin\Debug\Nizovi.exe.config
+C:\Users\Iva\source\repos\Nizovi\Nizovi\bin\Debug\Nizovi.exe
+C:\Users\Iva\source\repos\Nizovi\Nizovi\bin\Debug\Nizovi.pdb
+C:\Users\Iva\source\repos\Nizovi\Nizovi\obj\Debug\Nizovi.csproj.AssemblyReference.cache
+C:\Users\Iva\source\repos\Nizovi\Nizovi\obj\Debug\Nizovi.csproj.CoreCompileInputs.cache
+C:\Users\Iva\source\repos\Nizovi\Nizovi\obj\Debug\Nizovi.exe
+C:\Users\Iva\source\repos\Nizovi\Nizovi\obj\Debug\Nizovi.pdb
